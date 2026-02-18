@@ -1,0 +1,5 @@
+{
+  "name": "ControlHorarios MS - Secundaria Moisés Sáenz",
+  "description": "Sistema profesional de registro y control de horarios para el personal de la Escuela Secundaria Federal 'Moisés Sáenz'. Permite gestionar personal, registrar incidencias diarias (retardos y faltas) y generar reportes mensuales automáticos.",
+  "requestFramePermissions": []
+}
